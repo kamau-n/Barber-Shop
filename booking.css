@@ -1,0 +1,23 @@
+h2 {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+}
+
+body {
+    width: 80%;
+    margin: auto;
+    background-color: aqua;
+    color: white;
+    font-weight: 800;
+}
